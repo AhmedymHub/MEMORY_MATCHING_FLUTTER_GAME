@@ -25,31 +25,49 @@ This project was created for the Mobile Programming Exercise challenge.
 
 ---
 
-## Screenshots
+# 📸 Screenshots
 
-### Android Device
+## Welcome Screen
 
-![Android Device 1](screenshots/Android-Device-1.jpg)
-
-![Android Device 2](screenshots/Android-Device-2.jpg)
-
-![Android Device 3](screenshots/Android-Device-3.jpg)
-
-![Android Device 4](screenshots/Android-Device-4.jpg)
+<p align="center">
+  <img src="screenshots/Android-Device-1.jpg" width="260"/>
+</p>
 
 ---
 
-### Android Emulator
+## Main Gameplay
 
-![Emulator 1](screenshots/Emulator-1.png)
+<p align="center">
+  <img src="screenshots/Android-Device-2.jpg" width="260"/>
+  <img src="screenshots/Android-Device-3.jpg" width="260"/>
+</p>
 
-![Emulator 2](screenshots/Emulator-2.png)
+---
 
-![Emulator 3](screenshots/Emulator-3.png)
+## Matching Cards
 
-![Emulator 4](screenshots/Emulator-4.png)
+<p align="center">
+  <img src="screenshots/Android-Device-4.jpg" width="260"/>
+</p>
 
-![Emulator 5](screenshots/Emulator-5.png)
+---
+
+## Responsive Emulator UI
+
+<p align="center">
+  <img src="screenshots/Emulator-1.png" width="260"/>
+  <img src="screenshots/Emulator-2.png" width="260"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/Emulator-3.png" width="260"/>
+  <img src="screenshots/Emulator-4.png" width="260"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/Emulator-5.png" width="260"/>
+</p>
+
 
 ---
 
