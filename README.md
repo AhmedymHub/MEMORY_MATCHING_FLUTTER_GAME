@@ -1,4 +1,4 @@
-🧠 MEMORY MATCHING FLUTTER GAME
+# 🧠 MEMORY MATCHING FLUTTER GAME
 
 A modern and responsive Memory Matching Game developed using Flutter and Dart.
 
@@ -6,7 +6,8 @@ This project was created for the Mobile Programming Exercise challenge.
 
 ---
 
-📱 Features
+## 📱 Features
+
 ✅ Welcome Screen
 ✅ 4 × 5 Memory Matching Grid
 ✅ 20 Animated Cards
@@ -24,7 +25,7 @@ This project was created for the Mobile Programming Exercise challenge.
 
 ---
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 Flutter
 Dart
 IntelliJ IDEA
@@ -34,7 +35,7 @@ Android Emulator
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 ## Welcome Screen
 
@@ -79,7 +80,8 @@ Android Emulator
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
+
 memory_match_game/
 │
 ├── assets/
@@ -88,33 +90,34 @@ memory_match_game/
 ├── lib/
 │   ├── data/
 │   │   └── card_data.dart
+│   │
 │   ├── models/
 │   │   └── card_model.dart
+│   │
 │   ├── screens/
-│   │   ├── home_screen.dart
-│   │   └── welcome_screen.dart
+│   │   └── home_screen.dart
+│   │
 │   ├── widgets/
 │   │   └── game_card.dart
+│   │
 │   └── main.dart
 │
 ├── screenshots/
-│   ├── Android-Device-1.jpg
-│   ├── Android-Device-2.jpg
-│   ├── Android-Device-3.jpg
-│   ├── Android-Device-4.jpg
-│   ├── Emulator-1.png
-│   ├── Emulator-2.png
-│   ├── Emulator-3.png
-│   ├── Emulator-4.png
-│   └── Emulator-5.png
 │
-├── README.pdf
+├── android/
+├── ios/
+├── web/
+├── linux/
+├── windows/
+├── macos/
+│
+├── pubspec.yaml
 ├── README.md
-└── pubspec.yaml
+└── README.pdf
 
 ---
 
-🚀 How To Run The Project
+## 🚀 How To Run The Project
 1. Clone Repository
 git clone https://github.com/AhmedymHub/MEMORY_MATCHING_FLUTTER_GAME.git
 2. Open Project
@@ -136,7 +139,7 @@ Chrome Web
 
 ---
 
-🎮 Game Objective
+## 🎮 Game Objective
 
 The player flips cards and tries to match identical image pairs using memory and concentration skills.
 
@@ -151,7 +154,10 @@ GitHub Public Repository
 README Documentation
 Screenshots Included
 Complete Source Code Included
-👨‍💻 Author
+
+---
+
+## 👨‍💻 Author
 
 Ahmed Omar
 Mobile Programming — Flutter Memory Matching Game
