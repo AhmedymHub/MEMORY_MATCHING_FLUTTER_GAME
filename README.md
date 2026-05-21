@@ -1,17 +1,90 @@
-# memory_match_game
+# Memory Match Flutter Game
 
-A new Flutter project.
+A modern and responsive Memory Matching Game developed using Flutter and Dart.
 
-## Getting Started
+This project was created for the Mobile Programming Exercise challenge.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 4x5 Memory Card Grid
+- Animated Card Flipping
+- Matching System
+- Score Counter
+- Move Counter
+- Restart Game Button
+- Win Dialog Screen
+- Responsive UI Design
+- Gradient and Modern Styling
+- Works on:
+  - Android Device
+  - Android Emulator
+  - Chrome Web
+  - Linux Desktop
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Screenshots
+
+### Android Device
+
+![Android Device 1](screenshots/Android-Device-1.jpg)
+
+![Android Device 2](screenshots/Android-Device-2.jpg)
+
+![Android Device 3](screenshots/Android-Device-3.jpg)
+
+![Android Device 4](screenshots/Android-Device-4.jpg)
+
+---
+
+### Android Emulator
+
+![Emulator 1](screenshots/Emulator-1.png)
+
+![Emulator 2](screenshots/Emulator-2.png)
+
+![Emulator 3](screenshots/Emulator-3.png)
+
+![Emulator 4](screenshots/Emulator-4.png)
+
+![Emulator 5](screenshots/Emulator-5.png)
+
+---
+
+## Project Structure
+
+```text
+memory_match_game/
+│
+├── assets/
+│   └── images/
+│
+├── lib/
+│   ├── data/
+│   │   └── card_data.dart
+│   │
+│   ├── models/
+│   │   └── card_model.dart
+│   │
+│   ├── screens/
+│   │   └── home_screen.dart
+│   │
+│   ├── widgets/
+│   │   └── game_card.dart
+│   │
+│   └── main.dart
+│
+├── screenshots/
+│
+├── android/
+├── ios/
+├── web/
+├── linux/
+├── windows/
+├── macos/
+│
+├── pubspec.yaml
+├── README.md
+└── README.pdf
