@@ -6,36 +6,37 @@ This project was created for the Mobile Programming Exercise challenge.
 
 ---
 
-## 📱 Features
+# 📱 Features
 
-✅ Welcome Screen
-✅ 4 × 5 Memory Matching Grid
-✅ 20 Animated Cards
-✅ Randomized Card Positions
-✅ Score Tracking System
-✅ Live Match Counter
-✅ Move Counter
-✅ Restart Game Button
-✅ Winning Dialog
-✅ Responsive UI Design
-✅ Smooth Animations
-✅ Android Device Support
-✅ Android Emulator Support
-✅ Flutter/Dart Architecture
-
----
-
-## 🛠 Technologies Used
-Flutter
-Dart
-IntelliJ IDEA
-Android SDK
-Samsung Android Device
-Android Emulator
+* ✅ Welcome Screen
+* ✅ 4 × 5 Memory Matching Grid
+* ✅ 20 Animated Cards
+* ✅ Randomized Card Positions
+* ✅ Score Tracking System
+* ✅ Live Match Counter
+* ✅ Move Counter
+* ✅ Restart Game Button
+* ✅ Winning Dialog
+* ✅ Responsive UI Design
+* ✅ Smooth Animations
+* ✅ Android Device Support
+* ✅ Android Emulator Support
+* ✅ Flutter/Dart Architecture
 
 ---
 
-## 📸 Screenshots
+# 🛠 Technologies Used
+
+* Flutter
+* Dart
+* IntelliJ IDEA
+* Android SDK
+* Samsung Android Device
+* Android Emulator
+
+---
+
+# 📸 Screenshots
 
 ## Welcome Screen
 
@@ -80,8 +81,9 @@ Android Emulator
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
+```text
 memory_match_game/
 │
 ├── assets/
@@ -95,7 +97,8 @@ memory_match_game/
 │   │   └── card_model.dart
 │   │
 │   ├── screens/
-│   │   └── home_screen.dart
+│   │   ├── home_screen.dart
+│   │   └── welcome_screen.dart
 │   │
 │   ├── widgets/
 │   │   └── game_card.dart
@@ -106,58 +109,82 @@ memory_match_game/
 │
 ├── android/
 ├── ios/
-├── web/
 ├── linux/
-├── windows/
 ├── macos/
+├── windows/
+├── web/
 │
 ├── pubspec.yaml
 ├── README.md
 └── README.pdf
+```
 
 ---
 
-## 🚀 How To Run The Project
-1. Clone Repository
+# 🚀 How To Run The Project
+
+## 1. Clone Repository
+
+```bash
 git clone https://github.com/AhmedymHub/MEMORY_MATCHING_FLUTTER_GAME.git
-2. Open Project
+```
+
+---
+
+## 2. Open Project
 
 Open the project using:
 
-IntelliJ IDEA
-Android Studio
-3. Install Dependencies
-flutter pub get
-4. Run Application
-flutter run
-
-Then select:
-
-Android Device
-Android Emulator
-Chrome Web
+* IntelliJ IDEA
+* Android Studio
 
 ---
 
-## 🎮 Game Objective
+## 3. Install Dependencies
+
+```bash
+flutter pub get
+```
+
+---
+
+## 4. Run Application
+
+```bash
+flutter run
+```
+
+Then select:
+
+* Android Device
+* Android Emulator
+* Chrome Web
+
+---
+
+# 🎮 Game Objective
 
 The player flips cards and tries to match identical image pairs using memory and concentration skills.
 
 The game ends when all pairs are matched successfully.
 
-✅ Assignment Requirements Completed
-Flutter/Dart implementation
-Responsive UI Design
-Android Device Testing
-Emulator Testing
-GitHub Public Repository
-README Documentation
-Screenshots Included
-Complete Source Code Included
+---
+
+# ✅ Assignment Requirements Completed
+
+* Flutter/Dart Implementation
+* Responsive UI Design
+* Android Device Testing
+* Emulator Testing
+* GitHub Public Repository
+* README Documentation
+* Screenshots Included
+* Complete Source Code Included
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 Ahmed Omar
+
 Mobile Programming — Flutter Memory Matching Game
